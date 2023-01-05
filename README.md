@@ -1,8 +1,8 @@
 # Exostosis (osteochondroma)
 
-- https://pathologyatlas.github.io/exostosis/oc.html
+- https://images.patolojiatlasi.com/exostosis/oc.html
 
-- https://pathologyatlas.github.io/exostosis/oc001.html
+- https://images.patolojiatlasi.com/exostosis/oc001.html
 
-- https://pathologyatlas.github.io/exostosis/oc002.html
+- https://images.patolojiatlasi.com/exostosis/oc002.html
 
